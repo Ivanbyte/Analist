@@ -1,0 +1,6 @@
+Library :
+Pandas
+mathplotlib
+streamlit
+seaborn
+numpy
